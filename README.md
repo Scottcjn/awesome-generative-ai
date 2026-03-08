@@ -426,3 +426,11 @@ Generative Artificial Intelligence is a technology that creates original content
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
+
+---
+
+### Part of the Elyan Labs Ecosystem
+
+- [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
+- [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
+- [GitHub](https://github.com/Scottcjn)
