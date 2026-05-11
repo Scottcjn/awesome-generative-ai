@@ -266,7 +266,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
-- [Artbreeder](https://www.artbreeder.com/) - Artbreeder is new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
+- [Artbreeder](https://www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users' creativity by making it easier to collaborate and explore.
 - [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.
 - [Magic Eraser](https://www.magiceraser.io/) - Remove unwanted things from images in seconds.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that lets you express yourself by just describing what's on your mind.
