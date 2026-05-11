@@ -255,7 +255,7 @@ Generative Artificial Intelligence is a technology that creates original content
 ### Models
 
 - [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
-- [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state of the art text-to-image model that generates images from text. #opensource
+- [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state-of-the-art text-to-image model that generates images from text. #opensource
 - [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
@@ -266,12 +266,12 @@ Generative Artificial Intelligence is a technology that creates original content
 
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
-- [Artbreeder](https://www.artbreeder.com/) - Artbreeder is new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
+- [Artbreeder](https://www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users' creativity by making it easier to collaborate and explore.
 - [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.
 - [Magic Eraser](https://www.magiceraser.io/) - Remove unwanted things from images in seconds.
-- [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
+- [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that lets you express yourself by just describing what's on your mind.
 - [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin.
-- [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting edge AI developed by Stability.AI.
+- [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting-edge AI developed by Stability AI.
 - [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
 - [Playground](https://playground.com/) - Playground is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
 - [Pixelz AI Art Generator](https://pixelz.ai/) - Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available.
