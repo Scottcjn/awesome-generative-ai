@@ -108,7 +108,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Developer tools
 
 - [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
-- [Wilco Sierra](https://trywilco.com/sierra) - A platform that generates engineering challenges for software engineers using AI.
 - [Vectara](https://vectara.com/) - A Generative AI product platform for developers.
 - [Gdańsk AI](https://github.com/jmaczan/gdansk-ai) - Full stack AI voice chatbot (STT, LLM, TTS) with integrations to Auth0, OpenAI, Google Cloud and Stripe. #opensource
 - [ZZZ Code AI](https://zzzcode.ai) - AI-powered free website to get any programming question answered or code generated.
